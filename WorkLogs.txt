@@ -1,0 +1,21 @@
+1. The prerequisite of programming is: 
+        --> a clear mind
+        --> a healthy body
+        --> energy.
+2. Keep code reuse in mind.
+3. Learn from the other programmers.
+4. The more complicated the programming concepts are, the slower the development processes. Kepp it simple.
+5. Problem A is simple, Problem B is simple, Problem C is simple, but it can be very difficult when putting Problem A, B, C together.
+    So, the best way is:
+      a. For a simple problem, not only solve it but also investigate it
+      b. For a complicated problem, divide it into several familar simple problems
+6. In a 3-tier architecture, remember to always keep consisitent between the object in memory and in the database table.
+7. There're a lot of coinsidences in programming, it's the X factor.
+8. Give up .NET and any other Microsfot technologies, shift to Linux + C + Objective C + Script, get some certs on Linux
+9. Don't write any logics inside a stored procedure, it's very difficult to find out a bug inside a stored procedure.
+10. The smaller the scope of a variable is, the safer the codes are; the small the sql-server transaction is, the safer the database operation is.
+11. Code refactoring, is the process of restructuring existing computer code-- changing the factoring -- without changing its external behavior. Refactoring imporves non-functional attributes of the software. Advantages include imporved code readability and reduced complexity to imporve source code maintainability, and create a more experssive architecture or object model to imporve extensibility.
+12. A plan is going to be changed many times before it's really practical.
+13. Using an unproper name for a variable / method / class is a bug, and it'll cause many bugs.
+14. The vairables in memory are difficult to debug, it's better to write a good document for every function which operates and changes object status in memory.
+15. 
