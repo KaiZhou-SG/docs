@@ -18,4 +18,8 @@
 12. A plan is going to be changed many times before it's really practical.
 13. Using an unproper name for a variable / method / class is a bug, and it'll cause many bugs.
 14. The vairables in memory are difficult to debug, it's better to write a good document for every function which operates and changes object status in memory.
-15. 
+15. One will improve faster if he test his own codes carefully and produces high quanlity software.
+16. No matter it's OOS or Proprietary technology, the one which can ship good products is a good technology.
+17. Don't limit myself to one type of technology, always learn from different kinds of technology, either Java, C++, C, Python, Javascript, Windows, Linux, Android, iOS...
+18. Never give up .NET technology, because I've already contribute so many years to it, and it's really not bad.
+19. 
