@@ -22,4 +22,8 @@
 16. No matter it's OOS or Proprietary technology, the one which can ship good products is a good technology.
 17. Don't limit myself to one type of technology, always learn from different kinds of technology, either Java, C++, C, Python, Javascript, Windows, Linux, Android, iOS...
 18. Never give up .NET technology, because I've already contribute so many years to it, and it's really not bad.
-19. 
+19. Never write tricky codes, it's a disaster.
+20. Be very careful that in C#, String is very much different from StringBuilder, it's very different from any other reference type variables.
+    String is said to be reference type, you can use string1 = string2 to assign the "content" of string2 to string1, but their address are still different.
+	Change string1 will not affact string2, chang string2 will also not affact string1.
+21. 
