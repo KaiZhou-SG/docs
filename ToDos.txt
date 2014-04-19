@@ -1,7 +1,26 @@
-2014-04-19
+2014-04-20
+1. Morning:
+  1.1 Read the book "Thinking in Java"
+  1.2 Write some codes on Java
+2. Afternoon:
+  2.1 Find a good book on Android developing
+  2.2 Write some Android applications
 
+2014-04-19
+(1) Read the eBook "Thinking in Java" quickly through the basic chapters in the morning
+      a. get familiar with the Java syntax
+      b. get used to write some Java console programs
+(2) Learn some Ubuntu basic knowledge through reading the eBook
+(3) Find a good book on Android developping and read some chapters
+(4) Install Android Studio on Ubuntu and develop some Android applications
+(5) Have fun with the friends from my QQ Group, remember eat and drink in modest
+(6) Take a shower and go to bed early
+
+2014-04-18
 (1) Watch some entatinment videos, and go out to have a walk at 19:30.
 (2) Come back home at around 20:30, take a shower and go to bed before 20:00
 (3) Listen to some BBC english 
+
+
   
 
