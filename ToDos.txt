@@ -1,3 +1,10 @@
+2014-04-21
+1. Set up the Android development environment on Ubuntu
+2. Read the Android developer tranning materials: http://developer.android.com/tools/devices/emulator.html
+3. Read and study some sample applications
+4. Write some android applications on my own
+5. Think about the Haulier Sub-contractor and multi-user Planning thing
+
 2014-04-20
 1. Morning:
   1.1 Read the book "Thinking in Java"
