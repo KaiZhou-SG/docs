@@ -26,4 +26,4 @@
 20. Be very careful that in C#, String is very much different from StringBuilder, it's very different from any other reference type variables.
     String is said to be reference type, you can use string1 = string2 to assign the "content" of string2 to string1, but their address are still different.
 	Change string1 will not affact string2, chang string2 will also not affact string1.
-21. 
+21. Writing high quanlity codes is more important than mastring more technologies.
