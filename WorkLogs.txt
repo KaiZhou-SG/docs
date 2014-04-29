@@ -27,4 +27,8 @@
     String is said to be reference type, you can use string1 = string2 to assign the "content" of string2 to string1, but their address are still different.
 	Change string1 will not affact string2, chang string2 will also not affact string1.
 21. Writing high quanlity codes is more important than mastring more technologies.
-22. 
+22. In the engineering field, you cannot wait untill you have "mastered" everything before 
+    starting a project, it is impossible; It's also unwise to start doing a project without 
+	any knowledge, but by trying here and there like blind. It's a wisdom to keep a balance point
+	between the two extremas.
+23.
