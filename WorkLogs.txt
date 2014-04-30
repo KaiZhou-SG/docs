@@ -31,4 +31,6 @@
     starting a project, it is impossible; It's also unwise to start doing a project without 
 	any knowledge, but by trying here and there like blind. It's a wisdom to keep a balance point
 	between the two extremas.
-23.
+23. Unit testing is very important, IT CAN SAVE YOUR TIME. Not saying in some environments you don't have a debugger, 
+    Unit Testing is the only way to debug.
+24. 
