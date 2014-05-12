@@ -34,4 +34,4 @@
 23. Unit testing is very important, IT CAN SAVE YOUR TIME. Not saying in some environments you don't have a debugger, 
     Unit Testing is the only way to debug.
 24. The key variable is the emotion, which will destory all plans, which makes plan impossible.
-25. 
+25. Don't just rely on the debugger, try to find the defects by anlysising the logic by yourself.
