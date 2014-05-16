@@ -38,13 +38,13 @@
 26. ExecuteNonQuery requires the command to have a transaction when the connection assigned to the command is in a pending local transaction.
 27. References are polymorphic, an object reference can be:
     a. Implicitly upcast to a base class reference
-	  a1. An upcast operation creates a basc class reference from a subclass reference.
+	  a1. An upcast operation creates a basic class reference from a subclass reference.
 	  a2. After the upcast, the variable still references the same subclass object.
 	  a3. The referenced object is not affected.
-	b. Explicity downcast to a subclass reference
+	b. Explicitly downcast to a subclass reference
 	  b1. A downcast operation creates a subclass reference from a base class reference.
-	  b2. A downcast requires an explict cast because it can prtentially fail at runtime.
-	  b3. The referenced object is not affacted.
+	  b2. A downcast requires an explicit cast because it can potentially fail at runtime.
+	  b3. The referenced object is not affected.
 	  b4. If a downcast fails, an InvalidCastException is thrown.
 28. 
 	  
