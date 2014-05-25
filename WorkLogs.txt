@@ -16,8 +16,8 @@
 10. The smaller the scope of a variable is, the safer the codes are; the small the sql-server transaction is, the safer the database operation is.
 11. Code refactoring, is the process of restructuring existing computer code-- changing the factoring -- without changing its external behavior. Refactoring imporves non-functional attributes of the software. Advantages include imporved code readability and reduced complexity to imporve source code maintainability, and create a more experssive architecture or object model to imporve extensibility.
 12. A plan is going to be changed many times before it's really practical.
-13. Using an unproper name for a variable / method / class is a bug, and it'll cause many bugs.
-14. The vairables in memory are difficult to debug, it's better to write a good document for every function which operates and changes object status in memory.
+13. Using an improper name for a variable / method / class is a bug, and it'll cause many bugs.
+14. The variables in memory are difficult to debug, it's better to write a good document for every function which operates and changes object status in memory.
 15. One will improve faster if he test his own codes carefully and produces high quanlity software.
 16. No matter it's OOS or Proprietary technology, the one which can ship good products is a good technology.
 17. Don't limit myself to one type of technology, always learn from different kinds of technology, either Java, C++, C, Python, Javascript, Windows, Linux, Android, iOS...
@@ -25,12 +25,52 @@
 19. Never write tricky codes, it's a disaster.
 20. Be very careful that in C#, String is very much different from StringBuilder, it's very different from any other reference type variables.
     String is said to be reference type, you can use string1 = string2 to assign the "content" of string2 to string1, but their address are still different.
-	Change string1 will not affact string2, chang string2 will also not affact string1.
-21. Writing high quanlity codes is more important than mastring more technologies.
+	Change string1 will not affect string2, change string2 will also not affect string1.
+21. Writing high quality codes is more important than mastering more technologies.
 22. In the engineering field, you cannot wait untill you have "mastered" everything before 
     starting a project, it is impossible; It's also unwise to start doing a project without 
 	any knowledge, but by trying here and there like blind. It's a wisdom to keep a balance point
 	between the two extremas.
 23. Unit testing is very important, IT CAN SAVE YOUR TIME. Not saying in some environments you don't have a debugger, 
     Unit Testing is the only way to debug.
-24. 
+24. The key variable is the emotion, which will destory all plans, which makes plan impossible.
+25. Don't just rely on the debugger, try to find the defects by anlysising the logic by yourself.
+26. ExecuteNonQuery requires the command to have a transaction when the connection assigned to the command is in a pending local transaction.
+27. References are polymorphic, an object reference can be:
+    a. Implicitly upcast to a base class reference
+	  a1. An upcast operation creates a basic class reference from a subclass reference.
+	  a2. After the upcast, the variable still references the same subclass object.
+	  a3. The referenced object is not affected.
+	b. Explicitly downcast to a subclass reference
+	  b1. A downcast operation creates a subclass reference from a base class reference.
+	  b2. A downcast requires an explicit cast because it can potentially fail at runtime.
+	  b3. The referenced object is not affected.
+	  b4. If a downcast fails, an InvalidCastException is thrown.
+28. Learn how to learn; study how to study.
+29. In Visual Studio 2008, there's a chance that it'll fail while building a whole solution
+even though the project dependencies are set correctly, but it'll succeed while building all 
+the projects one by one following the same dependencies manually. It's very bad.
+30. The more complex problems of VCS are:
+	a. branching
+	b. comparison
+	c. multi-location synchronize
+31. 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	
+      
