@@ -54,7 +54,15 @@ the projects one by one following the same dependencies manually. It's very bad.
 	a. branching
 	b. comparison
 	c. multi-location synchronize
-31. 
+31. When developing a function, where do those parameters come from and what do they mean
+do not matter, you just assume they are there and valid. The logic of what to do with them
+is important; But when using a function, where do those parameters come from and what do
+they mean are the most important things, the inside logic of how they're dealt with is
+not important. It's quite an interesting fact. The fact is, from a creator's view
+and a consumer's view, the function is a totally different thing.
+	So when developing a function as a programmer, remember to consider not only from a
+creator's view, but also from a consumer's view.
+32. 
 	  
 	  
 	  
