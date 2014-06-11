@@ -1,0 +1,9 @@
+solution 1:
+Build an FTP server and install a FTP clients on every working PC.
+Advantages:
+1. Remote access, you can access your working documents from home or anywhere when there's an Internet connection
+2. Security, you can control the access rights to every different stuff, as well as modification / deletion rights
+3. Fast, FTP protocol is fast enough
+4. Multi-user support
+5. Easy to use, no concepts of "read-only files"
+Disadvantages
