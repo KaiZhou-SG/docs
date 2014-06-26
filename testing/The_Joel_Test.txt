@@ -1,0 +1,14 @@
+The Joel Test
+
+1.    Do you use source control? (yes)
+2.    Can you make a build in one step? (yes)
+3.    Do you make daily builds? (yes)
+4.    Do you have a bug database? (no)
+5.    Do you fix bugs before writing new code? (no)
+6.    Do you have an up-to-date schedule?  (no)
+7.    Do you have a spec? (yes)
+8.    Do programmers have quiet working conditions? (yes)
+9.    Do you use the best tools money can buy? (no)
+10.    Do you have testers? (no)
+11.   Do new candidates write code during their interview? (yes)
+12.    Do you do hallway usability testing?  (no)
