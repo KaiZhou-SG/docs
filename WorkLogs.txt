@@ -62,7 +62,10 @@ not important. It's quite an interesting fact. The fact is, from a creator's vie
 and a consumer's view, the function is a totally different thing.
 	So when developing a function as a programmer, remember to consider not only from a
 creator's view, but also from a consumer's view.
-32. 
+32. You can open another database connection when the previous is not commit
+  yet, but only when the latter does not depend on the changes that the former
+  makes.  
+33. 
 	  
 	  
 	  
